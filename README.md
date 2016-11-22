@@ -22,6 +22,6 @@ In this part, you will be applying the finishing touches to your portfolio.
   3. Reinforce your knowledge of a well-formed HTML.
   4. Demostrate your knowledge building a basic structure for a website.
   5. Demonstrate your knowledge of CSS.
-  6. Provide you with a start of a portfolio that you can continue to improve and add on to.
+  6. Provide you with a start of a portfolio that you can continue to improve and add on to..
   
 **Due: 11 Dec 2016 @ 11:59 pm**

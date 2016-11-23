@@ -13,6 +13,7 @@ In this part, you will be applying the finishing touches to your portfolio.
   1. Deploy your website. There are different ways in which you can deploy your website so that it is accessible to the outside world. You are free to use any that you care to. Provide me the website URL for extra credit. A couple of options are:
     * Any student may put their web site on a [CofC web server](http://it.cofc.edu/vvw/web/stu.php) dedicated for students.
     * Follow the guideline in the [HostingInstructions](HostingInstructions.md) file in this repository.
+    * Deploying static site with ftp [guide](FtpInstructios.md)
   2.  Make improvements to this project and submit as a Pull request. Any improvements will get you extra points. Some improvements are worth more points than others, for example misspelled word fixes will not be as many as another set of instructions on how to deploy a website. To do this, you must have a GitHub account. Simply Fork the project. This will make a copy as a repository into your GitHub account and you can edit the files. This can be done from within the web browser. Commit your changes and click on 'New Pull Request' and then 'Create Pull Request'. 
   3. Create a web site that will showcase you as a web developer/designer. This is an [example](http://www.william-byrd.com/index.html) site.  
 
